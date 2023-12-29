@@ -1,0 +1,959 @@
+﻿asset.name,id,output
+p030136,06979377-3999-4a62-9e5d-f1567ecfaf6f,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\oss\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p003944,13a831e1-1aaf-47bd-875a-7e6684c5ff9d,"'
+  Path              : C:\TransNet-8.40.50\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\TransNet-8.40.50\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\TransNet-8.40.50\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\TransNet_A300_8_10_25_15_32\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\TransNet_A300_8_10_25_15_32\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\TransNet_A300_8_10_25_15_32\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 7_2\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 7_2\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 7_2\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8V 10 25\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8V 10 25\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8V 10 25\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8v10\plugins\org.castor.1.1.0_1.0.0\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8v10\plugins\org.castor_5.0.7\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Transnet 8v10\plugins\de.siemens.spt.core.system_6.10.1\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030241,13bd1817-ba2f-41ec-80c7-72f9dd3dbcdf,"'
+  Path              : C:\Users\c047618\Desktop\COPEL\Desktop anterior\Desktop_Rafael\Documentos\CursoJAVA\java-e-oo\jbdevstudio10\studio\plugins\org.jboss.tools.openshift.client_3.3.0.Final-v20160902-1639-B14.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c047618\Desktop\COPEL\Desktop anterior\Desktop_Rafael\Documentos\CursoJAVA\java-e-oo\jbdevstudio10\studio\plugins\org.jboss.tools.openshift.express.client_3.3.0.v20160607-2011.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c047618\Desktop\COPEL\Desktop anterior\Desktop_Rafael\Documentos\CursoJAVA\java-e-oo\jbdevstudio10\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_5_5.1.1.v20160613-0605.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c047618\Desktop\COPEL\Desktop anterior\Desktop_Rafael\Documentos\CursoJAVA\java-e-oo\jbdevstudio10\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_6_5.1.1.v20160613-0605.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c047618\Desktop\COPEL\Desktop anterior\Desktop_Rafael\Documentos\CursoJAVA\java-e-oo\jbdevstudio10\studio\plugins\org.jboss.tools.ws.wise.ui_1.9.1.v20160608-0648.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p030332,182731a1-b383-43a9-b13a-e3ad15c084e2,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030101,1942dded-b239-487b-9bbc-75e050e61b3f,"'
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\SIGEP\sigepclient\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p009603,1a72ee00-fb3c-44ab-8432-eaf33df9a773,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000806,2707718c-086b-46fa-ad44-6f0fc7da0e87,"'
+  Path              : C:\APL\_tmp\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\_tmp\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022927\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_geral_backup\sigepclient\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022927\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_km_backup\SigepWEB\sigepclient\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022927\Desktop\Correio_Interno\SIGEP\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022927\Desktop\Correio_Interno\SIGEP\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022939\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_geral_backup\sigepclient\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022939\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_km_backup\SigepWEB\sigepclient\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022939\Desktop\Correio_Interno\SIGEP\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c022939\Desktop\Correio_Interno\SIGEP\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t313979\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_geral_backup\sigepclient\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t313979\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_km_backup\SigepWEB\sigepclient\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t327353\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_geral_backup\sigepclient\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t327353\Desktop\Correio_Interno\RICARDO - Controle\SigepWeb_km_backup\SigepWEB\sigepclient\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t327353\Desktop\Correio_Interno\SIGEP\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\t327353\Desktop\Correio_Interno\SIGEP\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p000767,2ad6bd0c-24d2-43e1-b8ed-52388f8d7561,"'
+  Path              : C:\Users\c803569\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_5_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c803569\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_6_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c803569\jbdevstudio\studio\plugins\org.jboss.tools.openshift.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c803569\jbdevstudio\studio\plugins\org.jboss.tools.openshift.express.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c803569\jbdevstudio\studio\plugins\org.jboss.tools.ws.wise.ui_1.8.1.Final-v20160331-0952-B76.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p003082,2d926285-1a93-40e0-86f5-780a9026a6e8,"'
+  Path              : C:\Users\c803523\Desktop\Sistemas\Jasper\Francys\jasperbpms.war
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\BACKUP\BACKUP\DevJava\files-bpms-0.9.jar
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\BACKUP\BACKUP\c803523\Areadetrabalho\Sistemas\Jasper\Francys\jasperbpms.war
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+"
+p030164,3691eab4-3e2b-4799-a04c-7c90588c0c7d,"'
+  Path              : C:\Users\c800967\Desktop\Curso Automa‡Æo SE\SASE\Executaveis\6.x.x.x\6.5.0.0\SDG\1.2.0\Editor\EditorSDG-1.4.2\lib\log4j-1.2.13.jar
+  Installed version : 1.2.13
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c800967\Documents\Backup Pend Drive Copel\Artur\U2000\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c800967\Documents\Backup Pend Drive Copel\Artur\U2000\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\F bia\SASE\Executaveis\6.x.x.x\6.5.0.0\SDG\1.2.0\Editor\EditorSDG-1.4.2\lib\log4j-1.2.13.jar
+  Installed version : 1.2.13
+  Fixed version     : 2.16.0
+"
+p030279,370929a7-09fb-4d39-8efc-94b200314e36,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030059,3a53e73d-6860-4d90-be4a-62f32f13ba25,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000005,40c00a78-d4e2-4054-8974-39dede09e230,"'
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p030067,4304f297-de52-476f-967b-55514af5f5aa,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030066,4dc8aa7c-04ba-4350-b247-b1bd6812619f,"'
+  Path              : C:\Users\c802865\Desktop\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c802865\Desktop\U2000V1R9copel\oss\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\U2000V1R9copel\oss\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p003093,52fd2bce-47a2-40c6-a83f-cbd5313aeb70,"'
+  Path              : D:\Desktop\DETL\sql\gra.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\c045203\Desktop\DETL\sql\gra.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030329,53788858-24d2-489f-9b9e-b7f34b36b97e,"'
+  Path              : C:\Program Files (x86)\DmView\activemq\lib\optional\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Program Files (x86)\DmView\apacheds\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Program Files (x86)\DmView\lib\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Program Files (x86)\DmView\trapd\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L042302\Downloads\activemq\lib\optional\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L042302\Downloads\apacheds\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L042302\Downloads\lib\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L042302\Downloads\trapd\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c042302\Documents\activemq\lib\optional\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c042302\Documents\apacheds\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c042302\Documents\lib\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c042302\Documents\trapd\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000821,5a4e3b6d-6b53-47d7-bb8e-34a1cb2ba4f6,"'
+  Path              : D:\COPEL\CTE\App\App\Pentaho\data-integration\plugins\kettle5-log4j-plugin\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\COPEL\Temp\Pentaho\data-integration\plugins\kettle5-log4j-plugin\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p003109,5a81537e-8592-4287-8b88-736922caa73c,"'
+  Path              : C:\IBM\InformationServer_11.7.1\wlp\usr\servers\mis\apps\brokers.war
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\IBM\InformationServer_11.7.1\ASBNode\lib\java\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Temp\Datastage\DataStage 11.7\IS_V11.7_WINDOWS_CLIENT_MULTILI\is-client\payloads\IMAMEngine\IMAMEngine\payload\engine\server\usr\servers\mis\apps\brokers.war
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Temp\Datastage\DataStage 11.7\IS_V11.7_WINDOWS_CLIENT_MULTILI\is-client\payloads\ThirdParty\ThirdPartyCommon\payload\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p030335,5b0b4660-c562-4b05-b626-c5d60fde7b5b,"'
+  Path              : C:\U2000\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000843,5d7a7fe2-b452-48f4-b517-92818ed667f0,"'
+  Path              : C:\APL\jbdevstudio\studio\plugins\org.jboss.tools.ws.wise.ui_1.8.1.Final-v20160331-0952-B76.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_5_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_6_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\jbdevstudio\studio\plugins\org.jboss.tools.openshift.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\jbdevstudio\studio\plugins\org.jboss.tools.openshift.express.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p469910,5e455dae-f8a3-464e-b4cb-c34fabd92270,"'
+  Path              : C:\Users\L051875\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_5_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L051875\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_6_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L051875\jbdevstudio\studio\plugins\org.jboss.tools.openshift.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L051875\jbdevstudio\studio\plugins\org.jboss.tools.openshift.express.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\L051875\jbdevstudio\studio\plugins\org.jboss.tools.ws.wise.ui_1.8.1.Final-v20160331-0952-B76.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c051875\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_5_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c051875\jbdevstudio\studio\plugins\org.jboss.tools.hibernate.runtime.v_3_6_5.0.1.Final-v20160331-1852-B88.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c051875\jbdevstudio\studio\plugins\org.jboss.tools.openshift.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c051875\jbdevstudio\studio\plugins\org.jboss.tools.openshift.express.client_3.1.0.Final-v20160414-0041-B272.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\c051875\jbdevstudio\studio\plugins\org.jboss.tools.ws.wise.ui_1.8.1.Final-v20160331-0952-B76.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p000008,666f2700-7b59-4b36-bc75-818d0b2e74b5,"'
+  Path              : E:\COM_SFC_MEDICAO\Sistemas & Aplicativos\Coletor Homologa‡Æo\Coletor\lib\log4j-1.2.8.jar
+  Installed version : 1.2.8
+  Fixed version     : 2.16.0
+
+
+
+  Path              : E:\COM_SFC_MEDICAO\Sistemas & Aplicativos\MEC\Homologa‡Æo MEC\coletor\instalador\lib\log4j-1.2.8.jar
+  Installed version : 1.2.8
+  Fixed version     : 2.16.0
+"
+p030102,7041cf35-ce4b-47ad-9541-c8d7b24e8e1e,"'
+  Path              : C:\APL\SigepWEB.old\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB.old\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p030334,7049e197-f4aa-4e24-b39f-3589f059b709,"'
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p030322,753290b8-cfd2-4da0-aaf4-8033c1617d0f,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p003051,7a2aaede-29f6-4f06-bbde-a7017bf8d6fd,"'
+  Path              : C:\IBM\InformationServer_11.7.1\wlp\usr\servers\mis\apps\brokers.war
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\IBM\InformationServer_11.7.1\ASBNode\lib\java\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p000811,7d4f8e35-cf4d-470c-9fb4-e0c1be511bbf,"'
+  Path              : D:\Mauricio_Neto_Local\2023\10_OUT\CargaBase_3.1\CargaBase\lib\cargabasebusiness-9.7RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+
+
+
+  Path              : D:\Mauricio_Neto_Local\2023\10_OUT\CargaBase_3.1\CargaBase\lib\cargabasepersistence_6.2RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+"
+p030070,7e96ca34-c4eb-42ce-8df7-3cbe1e1375ef,"'
+  Path              : C:\Sistemas\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Sistemas\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030283,81437b75-f253-4b00-82f9-1edfb9ed5091,"'
+  Path              : C:\Sistemas\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p003062,81e7fcbc-f766-4680-8272-0c7427017c28,"'
+  Path              : C:\Temp\Datastage\DataStage 11.7\IS_V11.7_WINDOWS_CLIENT_MULTILI\is-client\payloads\IMAMEngine\IMAMEngine\payload\engine\server\usr\servers\mis\apps\brokers.war
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Temp\Datastage\DataStage 11.7\IS_V11.7_WINDOWS_CLIENT_MULTILI\is-client\payloads\ThirdParty\ThirdPartyCommon\payload\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\SASE\SASE_7.0.4\EditorSASE-7.0.4\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\SASE\SASE_7.0.0\EditorSASE-7.0.0\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\SASE\SASE_7.1.0\SASE_7.1.0\EditorSASE-7.1.0\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p030329,87443830-4dae-448d-9ab6-bc6ce9d74feb,"'
+  Path              : C:\APL\OMNI\BAT\PRD\CargaLeitura\app\libs\log4j-core-2.8.2.jar
+  Installed version : 2.8.2
+  Fixed version     : 2.12.2
+"
+p030055,87c94165-f462-4d35-9cf6-1ad4ca0c861f,"'
+  Path              : C:\APL\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\U2000V1R9copel\oss\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030207,88318e27-9514-4676-b04b-1459d508dd55,"'
+  Path              : C:\Users\t303782\Downloads\U2000V1R9copel\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030057,91f98947-a16d-4506-a9c3-9b5ae20f9691,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\oss\client\lib\3rd_tools\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\Juliano\netbeans-17\ide\modules\ext\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+"
+p469941,922e1b29-868e-4725-9234-f343bb4b7ec0,"'
+  Path              : D:\SINAPgrid\CargaBase\CargaBase\CargaBase\lib\cargabasebusiness-9.7RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+
+
+
+  Path              : D:\SINAPgrid\CargaBase\CargaBase\CargaBase\lib\cargabasepersistence_6.2RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+"
+p000808,98add0e5-c4af-497a-aa7a-ef27941d6fb1,"'
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p469941,a2db830a-bed8-4aa1-ae9c-81f1871cdf51,"'
+  Path              : D:\SINAPgrid\CargaBase\CargaBase\CargaBase\lib\cargabasebusiness-9.7RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+
+
+
+  Path              : D:\SINAPgrid\CargaBase\CargaBase\CargaBase\lib\cargabasepersistence_6.2RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+"
+p469930,a9c01901-d979-4148-93de-d56af7b8f904,"'
+  Path              : D:\softwares\eclipse\jee-2018-09\eclipse\configuration\org.eclipse.osgi\1168\0\.cp\lib\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\softwares\eclipse\jee-2018-09\eclipse\configuration\org.eclipse.osgi\1169\0\.cp\lib\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\softwares\eclipse\jee-2018-09\eclipse\configuration\org.eclipse.osgi\1213\0\.cp\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p010459,b0ed2319-f36d-4f8f-bcc2-a2bd345cfb99,"'
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p030336,ca0acb08-0e39-4605-9a57-79a98e42354e,"'
+  Path              : D:\U2000\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000811,ca679a25-3e7f-4918-94bd-6ad8c0a3fd45,"'
+  Path              : D:\Mauricio_Neto_Local\2023\10_OUT\CargaBase_3.1\CargaBase\lib\cargabasebusiness-9.7RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+
+
+
+  Path              : D:\Mauricio_Neto_Local\2023\10_OUT\CargaBase_3.1\CargaBase\lib\cargabasepersistence_6.2RC.jar
+  Installed version : 2.11.1
+  Fixed version     : 2.12.2
+"
+p030280,cb66d218-923a-4870-af24-ad689fd44117,"'
+  Path              : D:\BKP_C050824\Desktop\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p030202,d6ce24b3-1c7d-4806-836f-1b1244d304a6,"'
+  Path              : C:\Program Files\ArcGIS\Pro\java\runtime\spark\jars\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p030329,d7e401ca-2ecb-4455-943d-ac1a3a509a29,"'
+  Path              : C:\APL\OMNI\BAT\PRD\CargaLeitura\app\libs\log4j-core-2.8.2.jar
+  Installed version : 2.8.2
+  Fixed version     : 2.12.2
+"
+p000658,e210c1cf-6b73-4eca-ae30-9d71a872e99c,"'
+  Path              : D:\backup\agrupado\Projetos\Quati\quati.war
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\VOL\Java\volear\target\vol.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\VOL\Java\volear\target\vol\lib\log4j-1.2.14.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\VOL\Java\volear\vol.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\VOL\Publicar\vol.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\VOL\Publicar\vol03-12.ear
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\pergamum\Versao - 06082015\pergamumweb.war
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\pergamum\Versao - 18082015\pergamumweb.war
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\pergamum\Versao - 18082015\pergamumweb\WEB-INF\lib\Log4j\log4j-1.2.15.jar
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+
+
+
+  Path              : D:\backup\agrupado\Projetos\pergamum\Versao - 20082015\pergamumweb.war
+  Installed version : 1.2.15
+  Fixed version     : 2.16.0
+"
+p030099,e9456791-4c72-488a-bde7-f2e8996f07ff,"'
+  Path              : C:\APL\SigepWEB\Bkp\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+  Installed version : 1.2.16
+  Fixed version     : 2.16.0
+"
+p000836,e9df4568-26a0-498a-8c1f-65ed63ab12b3,"'
+  Path              : C:\Temp\NAS\SASE_7.0.3\EditorSASE-7.0.3\lib\log4j-1.2.17.jar
+  Installed version : 1.2.17
+  Fixed version     : 2.16.0
+"
+p030058,ed48fc82-9532-4c7b-a6e2-4f0e31e2c55d,"'
+  Path              : C:\APL\oss\client\engineering\product_msuiteclient\plugin_NBI_Plugins_1.1.0.jar
+  Installed version : 1.2.14
+  Fixed version     : 2.16.0
+"
+p000759,fc7ada62-3506-4918-9989-aedf2facd901,"'
+  Path              : C:\Users\C046702\Documents\BPMS\ATD-ATG Atendimento grandes consumidores\Jasper\WAR\atd_jasper.war
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\C046702\Documents\BPMS\ATD-ATG Atendimento grandes consumidores\Jasper\WAR\atg_jasper.war
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\C046702\Documents\BPMS\ATD-ATG Atendimento grandes consumidores\Jasper\atd_jasper\WEB-INF\lib\log4j-1.2.11.jar
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\C046702\Documents\Francys\jasperbpms.war
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+
+
+
+  Path              : C:\Users\C046702\Documents\Francys\jasperbpms\WebContent\WEB-INF\lib\log4j-1.2.11.jar
+  Installed version : 1.2.11
+  Fixed version     : 2.16.0
+"
