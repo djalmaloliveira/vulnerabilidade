@@ -3,8 +3,15 @@
 import os
 
 # Obter o caminho absoluto do arquivo
-path1 = os.path.join("d:\\Work\\Copel\\Python_Geral\\Enviar_Email", "vulnerabilities-01_12_2024_-18_39_05-gmt-3_V1.csv")
+path1 = os.path.join("d:\\Work\\Copel\\Python_Geral\\Enviar_Email", "vulnerabilities-01_23_2024_-22_45_27-gmt-3.csv")
 pat3 = ""
+
+# Exemplo de estrutura do arquivo fonte
+# p489544,0104ed78-7176-4d81-b799-e3d2879a0447,"'
+#   Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
+#   Installed version : 1.2.16
+#   Fixed version     : 2.16.0
+# "
 
 def Patrimonio(linha):
     # 10.238.17.201,p489857,fe181f99-0129-4d8b-9df3-a4a79a752135    
@@ -16,9 +23,17 @@ def Patrimonio(linha):
         pat = linha[primeiraVirgula+1:primeiraVirgula+8]   
         #print(f'PrimeiraVirgula: {primeiraVirgula} SegundaVirgula {segundavirgula} Pat: {pat} Linha: ({linha})')
     return pat
-def pegaFiles(caminho):
-    qtasBarras = caminho.count('\\')
-    print(f'Caminho: qtasBarras {qtasBarras} -  {caminho}')
+def pegaFiles(caminho):    
+    tamstring = len(caminho)  
+    localbarra = linha.rfind("\\") 
+    inicioString = localbarra - 21
+    strFile = caminho[inicioString:tamstring]
+    caminho = caminho.replace(":\\","$\\")    
+    caminho = f'"\\\{caminho}"'
+    strFiles = (f'{caminho} {strFile}')
+    #print(f'2 - LocalBarra: {localbarra}- InicioString {inicioString} - TamanhoString {tamstring} - corte: {caminho} Recorte: {strFile}')    
+    #print(strFiles)
+    return strFiles
 
 def Path(linha):
     posicaoPath = linha[2:6]
