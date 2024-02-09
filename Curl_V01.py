@@ -5,18 +5,20 @@ from datetime import datetime
 
 # Obter o caminho absoluto do arquivo
 strPath ="D:\\Temp\\Vulnerabilidade\\Python"
-strPath ="D:\\Temp\\Vulnerabilidade\\Curl"
 strPathCasa ="D:\\Work\\Copel\\Python_Geral\\Enviar_Email"
-strNomeFile = "vulnerabilities-01_26_2024_-16_17_30-gmt-3.csv"
+strNomeFile = "vulnerabilities-01_31_2024_-09_14_52-gmt-3.csv"
 
 path1 = os.path.join(strPath, strNomeFile)
 pat3 = ""
 
-# Exemplo de estrutura do arquivo fonte
-# p489544,0104ed78-7176-4d81-b799-e3d2879a0447,"'
-#   Path              : C:\APL\SigepWEB\sigepcliente\lib\log4j-1.2.16.jar
-#   Installed version : 1.2.16
-#   Fixed version     : 2.16.0
+# p482639,0012c3db-6f90-46d2-af47-121d5d46a572,"'
+# The remote host is missing one of the following rollup KBs : 
+#   - 5032189
+
+#   - C:\windows\system32\ntoskrnl.exe has not been patched.
+#     Remote version : 10.0.19041.3570
+#     Should be      : 10.0.19041.3693
+
 # "
 if os.path.exists(path1):
     print("A arquivo Existe !")
@@ -44,8 +46,8 @@ def Path(linha):
 def NomeCMD(strPathNome):        
     int_PosicaoVirgula = strNomeFile.rfind('.csv')
     strNewFile2 = strPathNome[0:int_PosicaoVirgula]    
-    strNewFile  = f'{strNewFile2}.cmd'
-    #print  = f'1.Tamanho_Nome({int_SizeNome}) 2.Int_PosicaoVirgula: ({int_PosicaoVirgula}) 3.strPathNome ({strPathNome}) 1.NewFile2 ({strNewFile2}.cmd)'
+    strNewFile  = f'{strNewFile2}_Curl.cmd'
+    #print  = f'1.Tam_Nome({int_SizeNome}) 2.Int_PosicaoVirgula: ({int_PosicaoVirgula}) 3.strPathNome ({strPathNome}) 1.NewFile2 ({strNewFile2}.cmd)'
     print(strNewFile)
     return(strNewFile)
 
@@ -63,17 +65,15 @@ with open(strNewNom2, "w", encoding="utf-8") as fs:
             pat2 = Patrimonio(linha)            
             strLinha = Path(linha)                        
             #strLinha = extrairFile(strLinha2) 
+            #print(pat2)
             if (len(pat2) > 6) :
                 pat3 = pat2       
-            if type(strLinha) == str :
-                strLinha = (f'Dir \\\{pat3}\{strLinha} >>Lista_Curl_{str_datahora}.txt')
-                #print(f'1.Linha({contador});3.linha;Ren "\\\{pat3}{strLinha}')
-                strLinha = strLinha.replace(':','$')
-                strLinha = f'\n{strLinha}'                
-                fs.write(strLinha)
-                print(strLinha)
-
-
-
+            if strLinha:
+                if strLinha[slice(0, 10)] == "C:\Windows":
+                    strLinha = strLinha.replace(':','$')                            
+                    strLinha = (f'Dir \\\{pat3}\{strLinha} >>{strPath}\ListaVersaoCurl_{str_datahora}.txt')
+                    strLinha = f'\n{strLinha}'
+                    #print(strLinha)
+                    fs.write(strLinha)                    
 #print(str_datahora)
 print(f'Nome do arquivo criado: {strNewNom2}')

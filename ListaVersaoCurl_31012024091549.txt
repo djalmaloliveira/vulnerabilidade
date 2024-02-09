@@ -1,0 +1,108 @@
+ O volume na unidade \\p523690\C$ ‚ Windows
+ O Número de Série do Volume ‚ A864-3CFD
+ Pasta de \\p523690\C$\Windows\System32
+13/01/2024  10:52           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)    2.576.023.552 bytes dispon¡veis
+ O volume na unidade \\p523690\C$ ‚ Windows
+ O Número de Série do Volume ‚ A864-3CFD
+ Pasta de \\p523690\C$\Windows\SysWOW64
+13/01/2024  10:53           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)    2.576.023.552 bytes dispon¡veis
+ O volume na unidade \\p483709\C$ não tem nome.
+ O Número de Série do Volume ‚ B26A-62E8
+ Pasta de \\p483709\C$\Windows\System32
+17/12/2023  11:21           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)    5.515.190.272 bytes dispon¡veis
+ O volume na unidade \\p483709\C$ não tem nome.
+ O Número de Série do Volume ‚ B26A-62E8
+ Pasta de \\p483709\C$\Windows\SysWOW64
+17/12/2023  11:23           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)    5.515.190.272 bytes dispon¡veis
+ O volume na unidade \\p506004\C$ ‚ Windows
+ O Número de Série do Volume ‚ EA2B-21D2
+ Pasta de \\p506004\C$\Windows\System32
+20/12/2023  11:04           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   88.687.255.552 bytes dispon¡veis
+ O volume na unidade \\p506004\C$ ‚ Windows
+ O Número de Série do Volume ‚ EA2B-21D2
+ Pasta de \\p506004\C$\Windows\SysWOW64
+20/12/2023  11:07           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   88.687.255.552 bytes dispon¡veis
+ O volume na unidade \\p482787\C$ ‚ windows
+ O Número de Série do Volume ‚ 52F3-1811
+ Pasta de \\p482787\C$\Windows\System32
+17/01/2024  11:34           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   15.298.076.672 bytes dispon¡veis
+ O volume na unidade \\p482787\C$ ‚ windows
+ O Número de Série do Volume ‚ 52F3-1811
+ Pasta de \\p482787\C$\Windows\SysWOW64
+17/01/2024  11:36           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   15.298.076.672 bytes dispon¡veis
+ O volume na unidade \\p478305\C$ ‚ Windows
+ O Número de Série do Volume ‚ 04FA-E70A
+ Pasta de \\p478305\C$\Windows\System32
+18/04/2023  11:54           566.272 curl.exe
+               1 arquivo(s)        566.272 bytes
+               0 pasta(s)   65.322.098.688 bytes dispon¡veis
+ O volume na unidade \\p478305\C$ ‚ Windows
+ O Número de Série do Volume ‚ 04FA-E70A
+ Pasta de \\p478305\C$\Windows\SysWOW64
+18/04/2023  11:54           498.688 curl.exe
+               1 arquivo(s)        498.688 bytes
+               0 pasta(s)   65.322.098.688 bytes dispon¡veis
+ O volume na unidade \\p483444\C$ ‚ Windows
+ O Número de Série do Volume ‚ 08B5-C6D4
+ Pasta de \\p483444\C$\Windows\System32
+15/12/2023  11:39           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   30.878.511.104 bytes dispon¡veis
+ O volume na unidade \\p483444\C$ ‚ Windows
+ O Número de Série do Volume ‚ 08B5-C6D4
+ Pasta de \\p483444\C$\Windows\SysWOW64
+15/12/2023  11:43           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   30.878.511.104 bytes dispon¡veis
+ O volume na unidade \\p487617\C$ ‚ Windows
+ O Número de Série do Volume ‚ 1CCB-3ABD
+ Pasta de \\p487617\C$\Windows\System32
+12/12/2023  11:13           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   117.510.295.552 bytes dispon¡veis
+ O volume na unidade \\p487617\C$ ‚ Windows
+ O Número de Série do Volume ‚ 1CCB-3ABD
+ Pasta de \\p487617\C$\Windows\SysWOW64
+12/12/2023  11:14           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   117.510.295.552 bytes dispon¡veis
+ O volume na unidade \\p483160\C$ ‚ Windows
+ O Número de Série do Volume ‚ 7632-E77E
+ Pasta de \\p483160\C$\Windows\System32
+21/12/2023  07:22           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   167.943.061.504 bytes dispon¡veis
+ O volume na unidade \\p483160\C$ ‚ Windows
+ O Número de Série do Volume ‚ 7632-E77E
+ Pasta de \\p483160\C$\Windows\SysWOW64
+21/12/2023  07:23           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   167.943.061.504 bytes dispon¡veis
+ O volume na unidade \\p523125\C$ ‚ Windows
+ O Número de Série do Volume ‚ A864-3CFD
+ Pasta de \\p523125\C$\Windows\System32
+13/12/2023  11:13           601.544 curl.exe - Correto
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   45.422.518.272 bytes dispon¡veis
+ O volume na unidade \\p523125\C$ ‚ Windows
+ O Número de Série do Volume ‚ A864-3CFD
+ Pasta de \\p523125\C$\Windows\SysWOW64
+13/12/2023  11:13           531.912 curl.exe - Correto
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   45.422.518.272 bytes dispon¡veis

@@ -1,0 +1,192 @@
+ O volume na unidade \\p487499\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç D42A-A44A
+
+ Pasta de \\p487499\C$\Windows\System32
+
+07/01/2024  10:47           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   81.048.637.440 bytes dispon°veis
+ O volume na unidade \\p487499\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç D42A-A44A
+
+ Pasta de \\p487499\C$\Windows\SysWOW64
+
+07/01/2024  10:48           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   81.048.637.440 bytes dispon°veis
+ O volume na unidade \\p523690\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A864-3CFD
+
+ Pasta de \\p523690\C$\Windows\System32
+
+13/01/2024  10:52           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)                0 bytes dispon°veis
+ O volume na unidade \\p523690\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A864-3CFD
+
+ Pasta de \\p523690\C$\Windows\SysWOW64
+
+13/01/2024  10:53           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)                0 bytes dispon°veis
+ O volume na unidade \\p483709\C$ n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç B26A-62E8
+
+ Pasta de \\p483709\C$\Windows\System32
+
+17/12/2023  11:21           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)    6.087.090.176 bytes dispon°veis
+ O volume na unidade \\p483709\C$ n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç B26A-62E8
+
+ Pasta de \\p483709\C$\Windows\SysWOW64
+
+17/12/2023  11:23           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)    6.087.090.176 bytes dispon°veis
+ O volume na unidade \\p482856\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 4EC1-14DE
+
+ Pasta de \\p482856\C$\Windows\System32
+
+02/05/2023  11:19           566.272 curl.exe
+               1 arquivo(s)        566.272 bytes
+               0 pasta(s)   39.577.284.608 bytes dispon°veis
+ O volume na unidade \\p482856\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 4EC1-14DE
+
+ Pasta de \\p482856\C$\Windows\SysWOW64
+
+02/05/2023  11:19           498.688 curl.exe
+               1 arquivo(s)        498.688 bytes
+               0 pasta(s)   39.577.284.608 bytes dispon°veis
+ O volume na unidade \\p522435\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A29A-0DEB
+
+ Pasta de \\p522435\C$\Windows\System32
+
+23/12/2023  11:10           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   76.085.944.320 bytes dispon°veis
+ O volume na unidade \\p522435\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A29A-0DEB
+
+ Pasta de \\p522435\C$\Windows\SysWOW64
+
+23/12/2023  11:12           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   76.085.944.320 bytes dispon°veis
+ O volume na unidade \\p030164\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A864-3CFD
+
+ Pasta de \\p030164\C$\Windows\System32
+
+28/04/2023  10:43           566.272 curl.exe
+               1 arquivo(s)        566.272 bytes
+               0 pasta(s)    2.630.082.560 bytes dispon°veis
+ O volume na unidade \\p030164\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç A864-3CFD
+
+ Pasta de \\p030164\C$\Windows\SysWOW64
+
+28/04/2023  10:43           498.688 curl.exe
+               1 arquivo(s)        498.688 bytes
+               0 pasta(s)    2.630.082.560 bytes dispon°veis
+ O volume na unidade \\p482983\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 34F8-D0E1
+
+ Pasta de \\p482983\C$\Windows\System32
+
+21/11/2023  11:25           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   51.200.225.280 bytes dispon°veis
+ O volume na unidade \\p482983\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 34F8-D0E1
+
+ Pasta de \\p482983\C$\Windows\SysWOW64
+
+21/11/2023  11:26           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   51.200.225.280 bytes dispon°veis
+ O volume na unidade \\p482893\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç B2AA-D089
+
+ Pasta de \\p482893\C$\Windows\System32
+
+16/12/2023  08:07           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   96.166.838.272 bytes dispon°veis
+ O volume na unidade \\p482893\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç B2AA-D089
+
+ Pasta de \\p482893\C$\Windows\SysWOW64
+
+16/12/2023  08:09           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   96.166.838.272 bytes dispon°veis
+ O volume na unidade \\p478305\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 04FA-E70A
+
+ Pasta de \\p478305\C$\Windows\System32
+
+18/04/2023  11:54           566.272 curl.exe
+               1 arquivo(s)        566.272 bytes
+               0 pasta(s)   65.986.375.680 bytes dispon°veis
+ O volume na unidade \\p478305\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 04FA-E70A
+
+ Pasta de \\p478305\C$\Windows\SysWOW64
+
+18/04/2023  11:54           498.688 curl.exe
+               1 arquivo(s)        498.688 bytes
+               0 pasta(s)   65.986.375.680 bytes dispon°veis
+ O volume na unidade \\p483444\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 08B5-C6D4
+
+ Pasta de \\p483444\C$\Windows\System32
+
+15/12/2023  11:39           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   30.843.060.224 bytes dispon°veis
+ O volume na unidade \\p483444\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 08B5-C6D4
+
+ Pasta de \\p483444\C$\Windows\SysWOW64
+
+15/12/2023  11:43           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   30.843.060.224 bytes dispon°veis
+ O volume na unidade \\p487617\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 1CCB-3ABD
+
+ Pasta de \\p487617\C$\Windows\System32
+
+12/12/2023  11:13           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   118.849.269.760 bytes dispon°veis
+ O volume na unidade \\p487617\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 1CCB-3ABD
+
+ Pasta de \\p487617\C$\Windows\SysWOW64
+
+12/12/2023  11:14           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   118.849.269.760 bytes dispon°veis
+ O volume na unidade \\p483160\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 7632-E77E
+
+ Pasta de \\p483160\C$\Windows\System32
+
+21/12/2023  07:22           601.544 curl.exe
+               1 arquivo(s)        601.544 bytes
+               0 pasta(s)   167.581.847.552 bytes dispon°veis
+ O volume na unidade \\p483160\C$ Ç Windows
+ O N£mero de SÇrie do Volume Ç 7632-E77E
+
+ Pasta de \\p483160\C$\Windows\SysWOW64
+
+21/12/2023  07:23           531.912 curl.exe
+               1 arquivo(s)        531.912 bytes
+               0 pasta(s)   167.581.847.552 bytes dispon°veis

@@ -6,8 +6,8 @@ import csv
 import os
 
 #path1 = os.path.join("d:\\Work\\Copel\\Python_Geral\\Enviar_Email", "vulnerabilities-01_12_2024_-18_39_05-gmt-3.csv")
-path1 = os.path.join("D:\\Temp\\Vulnerabilidade\\Log4J", "vulnerabilities-01_16_2024_-15_34_24-gmt-3_V1.csv")
-#path1 = os.path.join("D:\\Temp\\Vulnerabilidade\\Log4J", "PontosCardeais.txt")
+path1 = os.path.join("D:\\Temp\\Vulnerabilidade\\Python", "vulnerabilities-01_18_2024_-14_29_01-gmt-3_V2.csv")
+path1 = os.path.join("D:\\Temp\\Vulnerabilidade\\Python", "vulnerabilities-01_18_2024_-14_29_01-gmt-3.txt")
 
 
 def extrairPat(texto):
@@ -36,9 +36,10 @@ def extrairFile(texto):
     texto = texto.replace("Installed version : 2.12.4", "**")
     texto = texto.replace("Installed version : 2.12.1", "**")
     texto = texto.replace("Installed version : 2.14.0", "**")    
-    texto = texto.replace("C:", "C$")
-    texto = texto.replace("D:", "D$")
-    texto = texto.replace("E:", "E$")    
+    texto = texto.replace("Automa‡Ćo", "Automacao")    
+    texto = texto.replace("C:", "\\C$")
+    texto = texto.replace("D:", "\\D$")
+    texto = texto.replace("E:", "\\E$")    
     texto = texto.replace("  Path              : ", "**")
     texto = texto.replace("**", "")
     texto = texto.replace("\\n", "")
@@ -63,16 +64,17 @@ with open(arqSaida, "a") as saida22:
         for row in reader:
             contador = contador + 1
             tamanho = len(row)
-            patrimonio = row[0:1]
+            patrimonio = row[:2]
             id = row[2:3]
             texto = row[2:3]
             texto = (f"{patrimonio} -- {texto} ")
             texto = extrairFile(texto)              
-            texto = (f"\n{texto}")            
-            print (texto)
+            texto = (f"\n {contador}={patrimonio}+{tamanho}++{texto}")            
+            #print (texto)
+            print(patrimonio)
 
             #saida22.write(texto)
-            saida22.writelines(texto)
+            #saida22.writelines(texto)
             #extrairPat(patrimonio)
         
 

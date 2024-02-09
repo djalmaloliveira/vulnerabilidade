@@ -1,0 +1,1664 @@
+﻿asset.name,id,output
+p482639,0012c3db-6f90-46d2-af47-121d5d46a572,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p457658,03cc5296-8c30-4c97-8223-1a0e309bf1f6,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p482684,04930575-c389-42e6-9577-e869b2ca50eb,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2486
+    Should be      : 10.0.19041.3693
+
+"
+p522482,05594ced-d6e7-4983-abad-782d17f8a1fd,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p506127,06c1fdcb-be1b-4e82-ac2b-ffe44c21304e,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p000700,07d4687d-8c47-4798-829a-9e61e4d4183f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p524139,08e50296-116a-4015-b671-871037dbef32,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2283
+    Should be      : 10.0.22621.2715
+
+"
+p523747,0c07c6c0-df53-486e-9b05-cbe23ad06a2e,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p522369,0c8bc5be-c800-4546-81a8-eb6d4f40e6c7,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p506171,0d288d8f-e62a-48fe-9d1e-bfae985951af,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.79.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.79.1.0
+  Fixed version     : 8.4.0
+"
+p523118,0e866899-887a-46ad-ac1d-6674d91ffa89,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p483664,0eba5237-4061-4ed0-a0e7-2542a652b497,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p523128,10011495-585b-471c-93ae-6b8c65a734a3,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p523125,10f27004-60f0-4f9b-8dcc-4742ff8e5b32,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+fun004900,123914e2-b015-473b-9c4e-d043f595f9f3,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p506156,141d8621-e70c-45d8-bc11-fa33d0f159ac,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+"
+p470977,14a935fd-c2df-44f5-a68d-2aa565930e22,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p000454,14ba4291-eccf-4044-90ac-2ac7b6690679,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p478360,178c3f00-6be3-442b-a62a-3fd1a8443f5d,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3208
+    Should be      : 10.0.19041.3693
+
+"
+p478258,18e6fa54-fc1f-40e3-abad-7062ac639d19,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2364
+    Should be      : 10.0.19041.3693
+
+"
+p030194,1950c0fb-340d-408e-9dbd-3d1714be775e,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p523690,1c7b7ddb-1e8a-4faa-a269-3b0d219659c8,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p506192,1fc4106c-fd6d-4153-90ba-b7c0da79b570,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p483709,1fe026b7-2ed2-45f4-a40a-335ae2e42413,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522435,20d693c1-ffc9-4957-a923-5fb9d2269292,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p478051,20f822e6-d92c-43f2-9a4b-0850f586cf65,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2728
+    Should be      : 10.0.19041.3693
+
+"
+p478371,2183b37a-e0cf-4d77-a593-41b797a99d01,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p487211,26f261a5-365f-4607-a08f-882c6274afa1,"'
+  Component         : RDBMS
+  Installed version : 21.0.0.0.0
+  Fixed version     : 21.13.0.0.240116
+  Missing patch     : 35962857
+"
+p506001,2702e0f4-e765-48e5-b9fe-9c0feca1e28e,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483444,2791213b-483c-4cee-b0db-cf1d9ff22d43,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482856,28d4640a-cca1-4555-8a15-70d6b8b0b328,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p474477,29210002-bc03-4850-b68e-217f948fc8fe,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p478178,2adcc8d1-19d6-4427-8d26-fe1a7383f390,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+p470038,2b506dab-7078-4451-a9b8-45cd79024dfd,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p522428,3163546d-0e0d-4228-80d5-aea956958c23,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3208
+    Should be      : 10.0.19041.3693
+
+"
+p522422,31dcc09c-6ada-4493-bdae-fb0d1e2440d7,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p000660,34d3ccd5-1e04-417f-a386-e298d138e314,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p483351,367cd9fb-7ba2-47a5-9d00-a3da3d69e36f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+p522491,367eaa61-2516-4d03-ad13-eba769ae43f3,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2006
+    Should be      : 10.0.19041.3693
+
+"
+p523228,372e452d-8f99-4afe-9509-a25ab932b9c4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482893,385e5e35-5f74-464f-9fd6-8bc3b2285c76,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p478375,3b9532e5-9de3-414f-966a-f4341bb8b995,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p489181,3caf9377-49b9-489f-904c-d78df243359f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482961,3d353205-3545-4199-82bc-77a8d4ae1919,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p513344,3ec6ee8c-ef82-5db2-a1b0-c89b64f1fb29,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482816,3f8c49b6-2ba6-400d-a868-4e29297a2aa2,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p522390,40913e94-1791-4083-b52f-39e3d2ac0e57,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.1889
+    Should be      : 10.0.19041.3693
+
+"
+p002702,419d3471-6c07-49bf-8258-05857f668b67,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.1992
+    Should be      : 10.0.22621.2715
+
+"
+p524362,425c3c83-9345-4277-839b-a5ae737bbb39,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p487792,42738b0e-4060-4159-99bf-3219b7d9582a,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522422,43428749-6243-4b99-a32e-1813e346c7ee,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522435,43eb6142-162f-4a10-923c-2df21e314b41,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522350,4418ac60-b822-47f5-81cd-278814c68b18,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p523162,47e36060-fbe4-41c0-9a5e-e975a2f2a180,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p000530,480ede20-13a1-47b3-b305-fd630db5f2b9,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p477960,4d4ea373-81f6-4629-9757-e6a1083c2314,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+tod506211,4ed7fa5b-fd48-45f0-814c-70849b4ee87f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p506088,4fd33871-9d94-4749-996c-f13815592fba,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.79.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.79.1.0
+  Fixed version     : 8.4.0
+"
+p522398,5158fe77-4b6a-4b7e-9264-aea8a995980e,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p030164,53069e5b-5ecf-4eab-829d-b488467ed7e3,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522158,554fe342-677a-4439-99e6-a905b89406fb,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p506230,566a63e1-0359-450d-a7a5-b0bdf9b0d39f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p523214,579d99fb-5ac2-43d9-b5eb-b5ab64558d30,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2364
+    Should be      : 10.0.19041.3693
+
+"
+p513344,5b047979-ac5e-5910-8f62-3f146e0a0324,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p489388,5c054f1e-5a63-4840-bf49-a041013fc795,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+fun004900,615ef3ad-3555-44cf-ab91-83a4cc8e75a5,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p523212,61e9439c-6a26-4f2a-b5c4-577475812958,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482816,61fbdc2e-c437-4547-90c5-291220bc0100,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p524472,650e86fe-b7fc-4913-843e-11603c992702,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p483737,6580960e-bc78-47b1-b663-3ef81c5ca053,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p478347,665a35e8-e150-4d0a-abc8-f2b85673364f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p002752,68691e26-f5ee-4d09-b060-9331ec21d4d8,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2428
+    Should be      : 10.0.22621.2715
+
+"
+p002765,6886830a-54b8-431d-9c26-4746cb4da298,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2428
+    Should be      : 10.0.22621.2715
+
+"
+p523957,69e63c43-bed6-4f21-92c5-47366e5cd112,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p002703,6be13eeb-f38b-4d81-bdde-e19bc262ea46,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2428
+    Should be      : 10.0.22621.2715
+
+"
+p523630,6c9ab6b3-706e-461d-a756-e479d31571f9,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p002768,6f4432bb-521e-41d5-8722-8b79659ecb03,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p478335,71bc53f0-d596-4bdb-b556-92efc59980ab,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p522165,772b0aae-bbf7-4738-8214-e0c4584601f6,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p002777,776bb156-0eef-471d-b1f3-cb02de13c602,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p002778,7e216797-feba-4028-b890-6bb063c30001,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p506004,7e9a8778-08fe-4037-952f-349ff8f4af5d,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p482787,7ea2d611-e751-4df5-b885-b0dd2079ca64,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p523690,7ed00551-c69f-4e44-ad05-c9411b214afe,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p470998,81e61b1d-09ba-4cef-af0a-16e76ed6fa83,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p506127,83135060-b3a1-47a9-9240-290aad65ca21,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p030329,85eb3d8a-6309-4b4a-901a-0e1c7038fc2a,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p489475,8753ea32-33aa-4bc9-bfdf-40944e46e251,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p471255,891bc48f-e886-41e7-b107-ce9ec1461ecf,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p517917,8924580b-4fd6-451c-a813-62c40a84037f,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482893,8f2ad5a9-439a-4af3-a3cf-54c69692ddaa,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522449,8fd68fed-672c-426d-9dc4-2d5bbbb1ced4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p522484,91b18d10-0e09-4ccd-93a4-8311a06691e8,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p474143,921e7c64-58ce-43ab-b667-0055dd05bf50,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p002703,93465c9d-3768-46fd-b655-501924f72368,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522370,93f2bfa9-f6ac-47f9-8452-468533e580bd,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+tod506024,95c518ae-a0f7-4c1f-ba59-43886fed7f55,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p506029,9669ac15-4921-4e14-a9a5-4cd6a8abe540,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p010476,98de816f-b017-4e25-877c-2a09d156c14b,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+p474380,98fab1a4-88e5-4069-b405-c3d20999deae,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+tod506223,993319dc-d59f-41c9-8501-db22bd13371f,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p524369,9b0a25c4-7209-4954-9a71-6ef71efaaa36,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p523197,9d0fd8bf-0173-40b9-bd5f-2380ca1206d8,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p483738,9e29e559-61ae-4ef7-ba7a-29ee06ecbe88,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p030321,9f9f4215-a72d-4d3f-8db7-f093e48ef116,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p477897,a26b3fe5-e1ea-42f6-a930-de0cd46aa3d0,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p477947,a2814f63-2691-4dbb-8b20-0248b9f06eb8,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p030196,a3b1860d-f7bb-43e6-a051-a3f56ed4b854,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.1889
+    Should be      : 10.0.19041.3693
+
+"
+p478371,a3e7d2f2-0498-4ccc-80f8-a498a9ceb4d9,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p483736,a58d16f2-11e8-4f64-a403-e1d622ccd045,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p522179,a5bd7d3e-d367-4eb4-bf67-bcca634c110a,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2728
+    Should be      : 10.0.19041.3693
+
+"
+p487617,a6fd79a9-1418-47bf-b6bf-07ef989a38f1,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p518492,a7fe0484-3331-453c-85fa-074d4acff9bc,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p030164,a950ceb0-0351-4d59-aa57-6e7a2d00fa7a,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p489380,ab1184cd-2eb8-4946-b899-388f4b0090f9,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p457859,ac1b7537-64e9-4ac3-9a87-3af5a399d596,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p477960,ac3ce015-0218-44d6-9a5e-4aa00202cb01,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p523673,ae78e26a-363e-42bc-ba28-454f2dc566e6,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p519503,af896579-10af-4a09-9537-f928687b07b3,"'
+  Component         : RDBMS
+  Installed version : 21.0.0.0.0
+  Fixed version     : 21.13.0.0.240116
+  Missing patch     : 35962857
+"
+p478106,b3ace044-0cc8-47eb-a05d-20bcbcfa7eae,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p500165,b3d7536f-8007-467d-8e80-3988a07b4a87,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2728
+    Should be      : 10.0.19041.3693
+
+"
+p488826,b418b8e3-bfad-4ec5-b5e4-8f0896b92bb9,"'
+  Component         : RDBMS
+  Installed version : 21.0.0.0.0
+  Fixed version     : 21.13.0.0.240116
+  Missing patch     : 35962857
+"
+p523629,b81fb915-491e-4b0e-9e1a-1e462e8e1c6c,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p457944,b869fb6c-df2c-49bb-a8a9-5c7dd2dc4182,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p030228,b95506a8-0148-4a5e-908f-0d8ecf6c1892,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2428
+    Should be      : 10.0.22621.2715
+
+"
+p482856,ba41236c-0394-40d8-a266-8d64b28392c2,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p478305,ba682d3a-a013-4e4e-bc70-9ceb2cb32ac2,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p487407,bebb8dba-8a36-4ebf-8cd8-64cb975d1db6,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p482795,bec6810d-1de0-5d3d-9ee9-397c355a4b90,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+tod506041,c4d99bfc-6728-4782-a8bd-b71ea99ece66,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p478305,c5af80c2-137c-436c-8902-99a5b85dae38,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p451953,c5b53bdc-3ff1-475c-94dc-0ca2b3e76605,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\windows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3208
+    Should be      : 10.0.19041.3693
+
+"
+p522492,c838ea53-6199-4124-8f91-9d191033edd8,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p478335,c856ed77-026a-4390-9454-bad23c5cd42b,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522484,ca0b5e4e-69f5-4472-9971-494b6e32a07b,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.2428
+    Should be      : 10.0.22621.2715
+
+"
+p522172,ca9c1625-66e1-42f8-b0c9-e6dc6375b588,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483316,cb7be7f1-8914-4827-a5d6-46a9da032d18,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2006
+    Should be      : 10.0.19041.3693
+
+"
+p506112,cc47ed9e-4be4-4e88-93e5-1f072167a7bc,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.1702
+    Should be      : 10.0.22621.2715
+
+"
+p489646,cca399b2-3e2d-4afb-ac35-76e9b7d5ec72,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+"
+p002778,cd0f621e-9ebf-4616-af74-92437bc8729d,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+"
+p483729,cedab0b5-6f77-421b-a7f4-1ea1f763e452,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p518220,d00c3268-f1db-4550-936d-94aa2020d299,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+p522372,d258e367-4b3a-4990-85c3-c4820fc7bfc3,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p518919,d2c3c1ea-64ad-4cf4-b56c-94d155b34d70,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2846
+    Should be      : 10.0.19041.3693
+
+"
+p506111,d36d4b58-986e-4ed1-ac0b-2cc8a4aae3e3,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p471204,d3f14e40-9715-4b02-9cc0-b0d7c0a38a4e,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 7.83.1.0
+  Fixed version     : 8.4.0
+"
+p506145,d3fcc3c9-1b92-4bdf-b18b-4fabdb2136e4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3086
+    Should be      : 10.0.19041.3693
+
+"
+p483287,d48ecd57-c04b-439b-b4ad-4f75464ee64e,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+tod506124,d5e89444-148d-477f-bf04-cae0fa532af5,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p524495,d7495827-5e11-462f-9c7b-29c2a4fb7382,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+get527402,d7ab77d6-436f-45e0-abd1-1d99cb4f2c29,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p471204,d95350ef-2d19-4d32-aad8-c14d1a7bbe56,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2604
+    Should be      : 10.0.19041.3693
+
+"
+tod506211,dab19739-7430-4b75-8eb0-afde01262a2d,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483444,de431f32-e96a-49d0-8822-bb1cd43b0da0,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p487236,de9c629f-9008-42b0-9ea8-76c5a9fd5255,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p506111,e2c3fdeb-01f9-43f2-a1b9-c567848df4e8,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p487617,e304b14e-a29b-4f05-9412-e223b161b1c2,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483160,e54bf62b-6c07-4d14-8695-75435e2b47fb,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p483709,e6d1ac5d-c551-4f7e-90cf-7f0706750603,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p522172,e7e16f06-be8e-4c41-96a8-c9bc7d0d37b4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p524290,e83bf06b-de61-4dc3-a960-e83fdea3180d,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p483717,e84c909f-345b-4946-bb2b-d49c39fb000d,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483160,e9e10afd-99b5-4642-8a8f-38690b3553a0,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p470335,eb0e3642-012a-4651-a531-1bef4ccbf22a,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032190
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.22621.674
+    Should be      : 10.0.22621.2715
+
+"
+p482779,ebdd983f-e3be-4b66-9ecb-0b9899e8a4c5,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3448
+    Should be      : 10.0.19041.3693
+
+"
+p523125,ed833315-3372-46a6-8191-64804138c700,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p523673,f2c5222c-9a3c-4efa-8384-b4960935ec98,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p482787,f411de4f-a452-4bbb-b0b6-2eb4710b599a,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p000122,f4af9586-19d0-4530-82fa-b9a796690ee4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p506192,f7ea2b36-b45b-4919-85b3-334659ab9233,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p483674,f83ce03f-14d3-4bba-b904-16c803e3d768,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
+p483738,f9f3719f-1dfe-48dd-9a04-dd1012971e6f,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+p522403,faa77693-125e-4de6-a18c-09e42ce2c60d,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WINDOWS\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.2965
+    Should be      : 10.0.19041.3693
+
+"
+p506001,fb9a59ec-bcf1-42c1-9f2e-8b6d77f9bcf3,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3324
+    Should be      : 10.0.19041.3693
+
+"
+p522492,fc57309e-3155-42f4-9918-9051499d4bac,"'
+  Path              : C:\Windows\System32\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+
+
+
+  Path              : C:\Windows\SysWOW64\curl.exe
+  Installed version : 8.0.1.0
+  Fixed version     : 8.4.0
+"
+tod506035,fe5197c1-f17d-43e2-9103-70f1a52009e4,"'
+The remote host is missing one of the following rollup KBs : 
+  - 5032189
+
+  - C:\WIndows\system32\ntoskrnl.exe has not been patched.
+    Remote version : 10.0.19041.3570
+    Should be      : 10.0.19041.3693
+
+"
