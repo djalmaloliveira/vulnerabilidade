@@ -6,6 +6,7 @@ import os
 strPath ="D:\\Temp\\Vulnerabilidade\\Python"
 strPath ="D:\\Work\\Copel\\Python_Geral\\Enviar_Email\\vulnerabilidade-main"
 strNomeFile = "ListaVersaoCurl_30012024172520.txt"
+strImage = "C:\\Temp\ImageAvixo.jpeg"
 
 path1 = os.path.join(strPath, strNomeFile)
 pat3 = ""
@@ -98,11 +99,19 @@ with open(strNewNom2, "w", encoding="utf-8") as fs:
                 pat3 = pat2       
             #print(f'1.Linha({contador}) 2.strSize {strSize};3.linha;"\\\{pat3}{strLinha}')                
             if type(strSize) == str :
-                strLinha = (f'Tamanho "\\\{pat3}\\{strSize}')
-                #print(f'1.Linha({contador});3.linha;Ren "\\\{pat3}{strLinha}')
-                strLinha = f'\n{strLinha}'
-                strLinha2 = extrairFile(strLinha)
-                fs.write(strLinha2)
-                print(strLinha2)
+                if strSize == '601.544':
+                    strtipo = "Atualizado"
+                else:
+                    strtipo = "Desatualizado"
+                    strLinha = (f'Tipo: {strtipo}-\\\{pat3}\\{strSize}\n')
+                    strCopy1 =  (f'Copy {strImage} \\\{pat3}\\C$\Apl\ \n')
+                    strCopy2 =  (f'Copy {strImage} \\\{pat3}\\C$\Windows\ \n')
+                   #print(f'1.Linha({contador});3.linha;Ren "\\\{pat3}{strLinha}')
+                    strLinha = f'\n{strLinha}'
+                    strLinha2 = extrairFile(strLinha)
+                    fs.write(strLinha2)                
+                    fs.write(strCopy1)
+                    fs.write(strCopy2)
+                    print(strLinha2)
             
 print(f'Nome do arquivo criado: {strNewNom2}')
